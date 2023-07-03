@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<File>
+  <Metadata>
+    <JobName>
+    </JobName>
+    <Title>
+    </Title>
+    <Client>
+    </Client>
+    <JobNumber>
+    </JobNumber>
+    <Revision>
+    </Revision>
+    <Part>
+    </Part>
+    <Reference>
+    </Reference>
+    <Engineer>
+    </Engineer>
+    <Checker>
+    </Checker>
+    <Approver>
+    </Approver>
+    <EngineerReviewDate>
+    </EngineerReviewDate>
+    <CheckerReviewDate>
+    </CheckerReviewDate>
+    <ApproverReviewDate>
+    </ApproverReviewDate>
+    <Comments>
+    </Comments>
+    <ConnectProjectId>
+    </ConnectProjectId>
+    <ConnectProjectName>
+    </ConnectProjectName>
+    <AnalysisStatus>
+    </AnalysisStatus>
+  </Metadata>
+</File>
