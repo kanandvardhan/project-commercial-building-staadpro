@@ -1,0 +1,348 @@
+[AISCSections]
+W Shape=0
+M Shape=0
+S Shape=0
+HP Shape=0
+B Shape=0
+Channel=0
+MC Channel=0
+Angle=0
+Tube=0
+Pipe=0
+HSS Rectangle=0
+HSS Round=0
+Castellated NonComp Beam=0
+Castellated Comp Beam=0
+Rod=0
+Cable=0
+[AustralianSections]
+UB Shape=0
+UC Shape=0
+WB Shape=0
+WC Shape=0
+Channel=0
+Angle=0
+RHS=0
+SHS=0
+CHS=0
+[BritishSections]
+UB Shape=0
+UC Shape=0
+UP Shape=0
+JO Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[CanadianSections]
+W Shape=0
+M Shape=0
+S Shape=0
+HP Shape=0
+WW Shape=0
+Channel=0
+MC Channel=0
+Angle=0
+Tube=0
+Pipe=0
+HSS Rectangle=0
+HSS Round=0
+[ChineseSections]
+I Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+T Shape=0
+H Shape=0
+[DutchSections]
+HE Shape=0
+IPE Shape=0
+IPN Shape=0
+UPN Channel=0
+Angle=0
+Tube=0
+Pipe=0
+PlateStrip=0
+SolidRound=0
+SolidSquare=0
+[EuropeanSections]
+IPE Shape=0
+HE Shape=0
+DIL Shape=0
+IPN Shape=0
+U Channel=0
+UPN Channel=0
+Angle=0
+Tube=0
+Pipe=0
+Bulb Flat=0
+Flat Bar=0
+HD Shape=0
+HL Shape=0
+HP Shape=0
+Solid Square=0
+UPE Channel=0
+UAP Channel=0
+RHS=0
+SHS=0
+CHS=0
+[FrenchSections]
+IPE Shape=0
+HE Shape=0
+IPN Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[GermanSections]
+IPE Shape=0
+HE Shape=0
+I Shape=0
+U Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[IndianSections]
+S Shape=0
+I Shape=0
+M Shape=0
+W Shape=0
+T Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[JapaneseSections]
+H Shape=0
+I Shape=0
+T Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+RHS=0
+SHS=0
+CHS=0
+CT Shape=0
+[RussianSections]
+B Shape=0
+SH Shape=0
+K Shape=0
+I Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[SouthAfricanSections]
+I Shape=0
+H Shape=0
+PG Shape=0
+C Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[SpanishSections]
+IPE Shape=0
+HE Shape=0
+IPN Shape=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[VenezuelanSections]
+Beam=0
+Channel=0
+Angle=0
+Tube=0
+Pipe=0
+[KoreanSections]
+W Shape=0
+H Shape=0
+I Shape=0
+WT Shape=0
+Channel=0
+Angle=0
+Pipe=0
+Tube=0
+[AluminumSections]
+AA Standard I Beams=0
+H Beam=0
+ArmyNavy I Beam=0
+American Standard I Beam=0
+I Beam=0
+AA Standard Channel=0
+Channel=0
+ArmyNavy Channel=0
+Special Channel=0
+American Standard Channel=0
+Equal Leg Angle=0
+Square End Equal Leg Angle=0
+Unequal Leg Angle=0
+Square End Unequal Leg Angle=0
+Square Tube=0
+Rectangular Tube=0
+Round Tube=0
+Pipe=0
+ArmyNavy Tee=0
+Tee=0
+Alloy=0
+[USColdFormedSections]
+Angle without Lips=0
+Angle with Lips=0
+Channel without Lips=0
+Channel with Lips=0
+Zee without Lips=0
+Zee with Lips=0
+Hat=0
+Pipe=0
+Tube=0
+[ISColdFormedSections]
+Angle without Lips=0
+Angle with Lips=0
+Channel without Lips=0
+Channel with Lips=0
+Zee without Lips=0
+Zee with Lips=0
+Hat=0
+[MexicanSteelTables]
+IEshape=0
+IRshape=0
+ISShape=0
+CEchanel=0
+LDangle=0
+LIangle=0
+OCpipe=0
+ORtube=0
+ORtubeR=0
+[AISCSteelJoists]
+OWJoistMaster=0
+JoistGirderMaster=0
+[AITCTimberSections]
+Glued Laminated Timber=0
+Aspen=0
+Balsam Fir=0
+Beech-Birch-Hickory=0
+Coast Sitka Spruce=0
+Cottonwood=0
+Douglas Fir-Larch=0
+Douglas Fir-Larch (North)=0
+Douglas Fir-Larch (South)=0
+Eastern Hemlock=0
+Eastern Hemlock-Tamarack=0
+Eastern Hemlock-Tamarack (N)=0
+Eastern Softwoods=0
+Eastern Spruce=0
+Eastern White Pine=0
+Hem-Fir=0
+Hem-Fir (North)=0
+Mixed Maple=0
+Mixed Oak=0
+Mixed Southern Pine=0
+Mountain Hemlock=0
+Northern Pine=0
+Northern Red Oak=0
+Northern Species=0
+Northern White Cedar=0
+Ponderosa Pine=0
+Red Maple=0
+Red Oak=0
+Red Pine=0
+Redwood=0
+Sitka Spruce=0
+Southern Pine=0
+Spruce-Pine-Fir=0
+Spruce-Pine-Fir (South)=0
+Western Cedars=0
+Western Cedars (North)=0
+Western Hemlock=0
+Western Hemlock (North)=0
+Western White Pine=0
+Western Woods=0
+White Oak=0
+Yellow Poplar=0
+[LysaghtColdFormedSections]
+Channel with Lips=0
+Zee with Lips=0
+[BSColdFormedSections]
+Angle without Lips=0
+Angle with Lips=0
+Channel without Lips=0
+Channel with Lips=0
+Zee without Lips=0
+Zee with Lips=0
+Hat=0
+Pipe=0
+Tube=0
+[CanadianTimberSections]
+Glued Laminated Timber=0
+Douglas Fir-Larch=0
+Hem-Fir=0
+Northern Species=0
+Spruce-Pine-Fir=0
+[ButlerColdFormedSections]
+Eave Struts=0
+Zee Purlins=0
+Box Struts=0
+Wide Flange=0
+Tapered Wide Flange=0
+SolidRound=0
+[KingspanColdFormedSections]
+Channel without Lips=0
+Channel with Lips=0
+[RCecoColdFormedSections]
+Angle without Lips=0
+Angle with Lips=0
+Channel without Lips=0
+Channel with Lips=0
+Zee without Lips=0
+Zee with Lips=0
+Hat=0
+Pipe=0
+Tube=0
+Eave Struts=0
+[JapaneseColdFormedSections]
+BCP 235 325=0
+BCP 325T=0
+BCR 295=0
+[AustralianColdFormedSections]
+RHS=0
+SHS=0
+CHS=0
+[GOSTColdFormedSections]
+Pipe=0
+[STO_ASChMSections]
+B Shape=0
+SH Shape=0
+K Shape=0
+[JindalSections]
+UB Shape=0
+HE Shape=0
+IPE Shape=0
+UC Shape=0
+ISMC Shape=0
+WPB Shape=0
+NPB Shape=0
+[EuropeanColdFormedSections]
+RHS=0
+SHS=0
+CHS=0
+[TataStructuraSections]
+RHS=0
+SHS=0
+CHS=0
+[BrazilSections]
+I=0
+W_H=0
+W_I=0
+T=0
+Channel=0
+Angle=0
+TRE=0
+TQE=0
+TCE=0
+Pipe=0
+CS=0
+CVS=0
+VS=0
+S Shape=0

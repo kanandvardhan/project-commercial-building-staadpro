@@ -1,0 +1,15 @@
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+C>>
+C>>  Staad Filename: C:\Users\kanan\OneDrive\Desktop\G+312\G+312.std
+C>>
+C>>  Error Filename: C:\Users\kanan\OneDrive\Desktop\G+312\G+312.err
+C>>
+C>>  Date: Saturday, December 25, 2021     Time: 07 : 57 : 59 PM
+C>>
+C>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+E=>    97: TYPE CONCRETE
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>    98: STRENGTH FCU 27579
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
+E=>    99: END DEFINE MATERIAL
+*=> Error, Above line IGNORED!  Check possible syntax or typing error.
